@@ -15,7 +15,11 @@ Python in Colab
 ![](AIA_Project_workflow.jpg)
 
 Training sample genertaiton scritps
+
 EO pre and processsign scripts
+
 ML notebooks 
+
 Past CSVs with trainign data
+
 For effecient operaiton a high through put GEE cloud project and a Colab Pro are suggested
